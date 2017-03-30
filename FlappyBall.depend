@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490301585 source:f:\codelinhtinh\sdl\flappyball\flappyball.cpp
+	<iostream>
+	<SDL.h>
+	<ctime>
+	<cmath>
+
+1490818286 source:f:\codelinhtinh\sdl\flappyball\flappyball_2.cpp
+	<iostream>
+	<SDL.h>
+	<ctime>
+	<cmath>
+	<stdio.h>
+
